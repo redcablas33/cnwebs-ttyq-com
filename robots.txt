@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://redcablas33.github.io/cnwebs-ttyq-com/sitemap.xml
